@@ -1,0 +1,10 @@
+{
+  "name": "greenverse-message",
+  "version": "1.0.0",
+  "description": "A simple eco-friendly landing page built for Tea Network",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": ["tea", "green", "html", "message"],
+  "author": "Your Name",
+  "license": "MIT"
+}
