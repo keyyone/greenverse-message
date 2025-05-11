@@ -4,7 +4,7 @@
   "description": "A simple eco-friendly landing page built for Tea Network",
   "main": "index.html",
   "scripts": {},
-  "keywords": ["tea", "green", "html", "message"],
-  "author": "Your Name",
+  "keywords": ["tea", "green", "html", "landing", "message"],
+  "author": "keyyone",
   "license": "MIT"
 }
