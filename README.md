@@ -17,8 +17,10 @@ Install the package:
 npm install greenverse-message
 ```
 Then in your code:
+```js
 // Coming soon...
 console.log("Greenverse says hello!");
+```
 🌐 Live Preview
 Check the GitHub Pages demo here
 
