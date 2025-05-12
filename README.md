@@ -22,10 +22,9 @@ Then in your code:
 console.log("Greenverse says hello!");
 ```
 # 🌐 Live Preview
-Check the GitHub Pages demo here
 - **Check the GitHub Pages demo:** [Here](https://keyyone.github.io/greenverse-message)
 
 # 🤝 Contribution
 This project is for learning, testing, and airdrop participation. Feel free to fork and improve!
-
+------------
 Built with ❤️ for Tea Network.
