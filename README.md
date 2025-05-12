@@ -1,4 +1,3 @@
-
 # 🌱 greenverse-message
 
 A minimal example project for publishing on NPM and Tea Network 🌿
@@ -16,17 +15,3 @@ Install the package:
 
 ```bash
 npm install greenverse-message
-Then in your code:
-
-javascript
-import { greet } from 'greenverse-message';
-
-// Usage
-greet(); // Output: "Greenverse says hello!"
-🌐 Live Preview
-Check the GitHub Pages demo here.
-
-🤝 Contribution
-This project is for learning, testing, and airdrop participation. Feel free to fork and improve!
-
-Built with ❤️ for Tea Network.
