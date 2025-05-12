@@ -13,7 +13,7 @@ A minimal example project for publishing on NPM and Tea Network 🌿
 
 Install the package:
 
-```bash
+
 npm install greenverse-message
 Then in your code:
 
