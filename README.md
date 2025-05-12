@@ -15,10 +15,11 @@ Install the package:
 
 ```bash
 npm install greenverse-message
-
 Then in your code:
 
-
+js
+Copy
+Edit
 // Coming soon...
 console.log("Greenverse says hello!");
 🌐 Live Preview
@@ -27,6 +28,4 @@ Check the GitHub Pages demo here
 🤝 Contribution
 This project is for learning, testing, and airdrop participation. Feel free to fork and improve!
 
-Built with ❤️ for Tea Network.
-
-
+Built with ❤️ for Tea Network
