@@ -21,10 +21,11 @@ Then in your code:
 // Coming soon...
 console.log("Greenverse says hello!");
 ```
-🌐 Live Preview
+# 🌐 Live Preview
 Check the GitHub Pages demo here
+- **Check the GitHub Pages demo:** [Here](https://keyyone.github.io/greenverse-message)
 
-🤝 Contribution
+# 🤝 Contribution
 This project is for learning, testing, and airdrop participation. Feel free to fork and improve!
 
 Built with ❤️ for Tea Network.
